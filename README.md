@@ -6,4 +6,7 @@ Basic knowledge from the internet
 4. Merkle树的检索遍历，更新，插入，删除：https://blog.csdn.net/jiange_zh/article/details/53386250
 5. 以太坊多阶段搭建：https://blog.csdn.net/DDFFR/article/details/74330422
 6. Python文件操作：https://www.cnblogs.com/Ksen/p/6855992.html
+7. public vs external in solidity：https://ethereum.stackexchange.com/questions/19380/external-vs-public-best-practices
+8. solidity可见性and 访问控制权限：http://me.tryblockchain.org/solidity-function-advanced1.html
+9. 
 
