@@ -9,4 +9,7 @@ Basic knowledge from the internet
 7. public vs external in solidity：https://ethereum.stackexchange.com/questions/19380/external-vs-public-best-practices
 8. solidity可见性and 访问控制权限：http://me.tryblockchain.org/solidity-function-advanced1.html
 9. solidity internal状态变量：https://blog.csdn.net/liyuechun520/article/details/78408608
+10. go 多参数 https://studygolang.com/articles/11965
+11. go client 发起Get&Post http://www.01happy.com/golang-http-client-get-and-post/
+12. go parsing response：http://blog.josephmisiti.com/parsing-json-responses-in-golang
 
